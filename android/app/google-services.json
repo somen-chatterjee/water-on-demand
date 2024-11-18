@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "368667416352",
+    "project_id": "focus-invention-426913-n6",
+    "storage_bucket": "focus-invention-426913-n6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368667416352:android:7a88085f01436c7fd06945",
+        "android_client_info": {
+          "package_name": "com.neo.water_on_demand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368667416352-4ttaf9v0a4ebekjnfn64ct30m422l7to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neo.water_on_demand",
+            "certificate_hash": "b1c043a39a9100dddd1fa8aec2ccb2c145812a48"
+          }
+        },
+        {
+          "client_id": "368667416352-o51dobg8go0c0ronitkhhcuhrh5uun2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyufzwPkmriya8vNRDV4ESvuYMG2b_gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368667416352-o51dobg8go0c0ronitkhhcuhrh5uun2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368667416352-unrpghd7p6s92k50bo6eafe23m1iahif.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.water-on-demand"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
